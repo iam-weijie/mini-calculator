@@ -1,0 +1,5 @@
+#!/bin/bash
+
+gcc -o minicalc minicalc.c -lm
+
+exit 0
