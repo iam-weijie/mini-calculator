@@ -1,3 +1,15 @@
 # Mini Calculator in C
 
-This mini calculator program provides functionalities for basic arithmetic operations, finding the greatest common divisor (GCD), calculating square roots, and determining if two input strings are anagrams. Additionally, a bash script named `build` is included to automate the compilation process.
+## Functions:
+
+1. Addition: ./minicalc + N1 N2 Output: the sum of the integers.
+
+2. Greatest common divisor: ./minicalc gcd N...
+
+3. Square root: ./minicalc sqrt A1
+
+4. Anagram: ./minicalc anagram S1 S2
+
+   Output: true if the strings S1 and S2 are anagrams, else false.
+
+Run `build` to compile ;)
