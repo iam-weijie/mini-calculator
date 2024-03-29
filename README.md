@@ -12,4 +12,4 @@
 
    Output: true if the strings S1 and S2 are anagrams, else false.
 
-Run `build` to compile ;)
+Run `build` first to compile ;)
